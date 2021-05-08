@@ -1,0 +1,40 @@
+* {
+    border: solid 1px red;
+}
+
+body {
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+}
+
+h1, h2 {
+    color: white;
+}
+
+
+header p, footer p {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.image-campsite p {
+    color: gray;
+    font-size: 21px;
+}
+
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
