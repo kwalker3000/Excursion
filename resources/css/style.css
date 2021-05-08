@@ -1,7 +1,3 @@
-* {
-    border: solid 1px red;
-}
-
 body {
     font-family: Verdana;
     text-align: center;
@@ -12,8 +8,7 @@ h1, h2 {
     color: white;
 }
 
-
-header p, footer p {
+a {
     color: aquamarine;
     font-size: 16px;
 }
@@ -33,8 +28,12 @@ h2 {
     font-size: 21px;
 }
 
-
 #copyright {
     text-align: right;
     color: gray;
+    font-size: 18px;
+}
+
+footer img {
+    padding-top: 18px;
 }
